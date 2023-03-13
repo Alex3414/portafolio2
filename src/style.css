@@ -1,0 +1,48 @@
+@import "fonts.css";
+
+@import "start.css";
+@import "button.css";
+@import "languaje-display.css";
+@import "technologi.css";
+
+html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Louis George Café", Arial;
+
+  --foreground: #030303;
+  --background: #9EFE8E;
+  --dark-foreground: #f1f1f1;
+  --dark-background: #912D55;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+
+  --col1: #61B352;
+  --col2: #B5FFA8;
+  --col3: #B34092;
+  --col4: #FF8FDF;
+  --contrast: #fff;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+body.darkmode {
+  color: var(--dark-foreground);
+  background: var(--dark-background);
+
+  --col1: #450E24;
+  --col2: #DE5B8F;
+  --col3: #08450B;
+  --col4: #2D9133;
+}
+

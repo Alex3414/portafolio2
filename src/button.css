@@ -1,0 +1,15 @@
+.btn {
+  color: #fff;
+  background: var(--col3);
+  font-size: 1rem;
+  margin: 0.1rem;
+  padding: 0.4rem;
+  border: none;
+  border-radius: 0.4em;
+  transition: ease-out 400ms;
+}
+
+.btn:active {
+  border-radius: 0;
+}
+

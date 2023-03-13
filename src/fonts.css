@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Lavinia;
+  src: url("../assets/fonts/Lavinia.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Louis George Café";
+  src: url("../assets/fonts/louis_george_caf/Louis\ George\ Cafe.ttf");
+  font-weight: normal;
+  font-style: normal;
+}

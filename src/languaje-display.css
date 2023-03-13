@@ -1,0 +1,11 @@
+.languaje-ico {
+  width: 64px;
+  height: 64px;
+}
+
+.languaje-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+

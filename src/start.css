@@ -1,0 +1,14 @@
+.start {
+  background: var(--col1);
+  background: linear-gradient(70deg, var(--col1) 0%, var(--col3) 80%);
+  height: 20rem;
+}
+
+#startTitle {
+  font-family: Lavinia;
+  font-size: 3rem;
+}
+
+#startText {
+  margin: 0rem;
+}
